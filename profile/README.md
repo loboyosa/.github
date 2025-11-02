@@ -18,8 +18,6 @@ From Hermosillo, Sonora — we craft identities, digital experiences, and visual
 
 | Repository | Description | Stack |
 |-------------|--------------|--------|
-| [`website`](https://github.com/loboyosa/website) | Official studio website | Next.js · TailwindCSS |
-| [`hikaru-cards-shopify-theme`](https://github.com/loboyosa/hikaru-cards-shopify-theme) | Custom Shopify theme boilerplate | Liquid · TypeScript |
 | [`assets`](https://github.com/loboyosa/assets) | Shared design system and brand assets | Figma · SVG · JSON Tokens |
 
 ---
